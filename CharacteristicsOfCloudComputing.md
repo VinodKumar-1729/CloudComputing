@@ -33,7 +33,7 @@
    - **Competitive Advantage**: Know the difference between VM-based and container-based virtualization as it can be crucial in cloud architecture.
 
 8. **Resilient Computing**  
-   - **Definition**: Built-in redundancy and fault tolerance to ensure high availability and reliability.
+   - **Definition**: Cloud computing services are typically designed with redundancy and fault tolerance in mind, which ensures high availability and reliability.
    - **Additional Insight**: Data replication and automatic failover mechanisms are commonly used.
    - **Exam Advantage**: Understand examples like auto-failover in cloud databases (AWS RDS, Google Cloud Spanner) for resilience in cloud computing.
 
